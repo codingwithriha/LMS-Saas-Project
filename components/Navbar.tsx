@@ -1,5 +1,6 @@
 import Image from "next/image"
 import Link from "next/link"
+import NavItems from "./NavItems"
 
 
 export const Navbar = () => {
@@ -15,5 +16,9 @@ export const Navbar = () => {
             />
         </div>
         </Link>
+        <div className="flex items-center gap-8">
+          <NavItems />
+          <p>Sign In</p>
+        </div>
         </nav>)
 }
