@@ -11,6 +11,7 @@
   "dependencies": {
     "@clerk/nextjs": "^6.25.0",
     "@hookform/resolvers": "^5.1.1",
+    "@jsmastery/utils": "^1.0.2",
     "@radix-ui/react-label": "^2.1.7",
     "@radix-ui/react-select": "^2.2.5",
     "@radix-ui/react-slot": "^1.2.3",
