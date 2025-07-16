@@ -99,4 +99,4 @@ const Profile = async () => {
     </main>
   );
 };
-export default Profile;
+export default Profile; 
