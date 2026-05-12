@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Tailwind-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
 
-  <h3 align="center">SaaS App - LMS with Next.js, Supabase & Payments</h3>
+  <h3 align="center">SaaS App LMS with Next.js, Supabase & Payments</h3>
 
   
 </div>
